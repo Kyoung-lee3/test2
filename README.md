@@ -28,7 +28,7 @@ Radix Tree 손그림
 <img width="943" height="206" alt="08" src="https://github.com/user-attachments/assets/760ec75c-2bd6-493c-81dc-ebb66b5111a7" />
 
 
-차이가 없어서 요청 수를 150건으로 증가하여 추가 실험 진행
+차이가 없어서 요청 수를 150건으로 증가하여 추가 진행
 
 150 requests 결과
 
